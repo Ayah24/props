@@ -1,0 +1,9 @@
+th, td{
+    border: solid 2px black;
+    padding-left: 4px;
+    border-style: solid;
+    background-color: beige;
+    block-size: 50px;
+}
+
+
